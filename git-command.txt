@@ -1,0 +1,13 @@
+git status
+git rm --cached name
+git add
+git commit -m "" name
+git reflog
+git log
+git reset --hard number
+
+branch command:
+git branch name
+git branch -v
+git checkout name
+git merge name
