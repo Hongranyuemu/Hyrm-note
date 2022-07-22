@@ -1,2 +1,2 @@
 "hello gays,welcome to git world!"
-this is the second try.
+this is the hot-fix version.
